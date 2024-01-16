@@ -1,0 +1,16 @@
+/*   
+Theme Name: Mix Gym
+Theme URI: домашняя-страница-темы
+Description: краткое-описание-темы
+Author: Georgy Polkanov
+Author URI: ваш-URI
+Template: default
+Version: 1.0.0
+*/
+body{
+    margin: 0;
+    padding: 0;
+    background: #363636;
+    color: white;
+    font-family: "Inter";
+}
